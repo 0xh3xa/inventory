@@ -1,7 +1,7 @@
 ### Inventory desktop swing application
 
-MVC java database application using mysql DBMS
-it's about store app. 
+##### MVC java database application using mysql DBMS
+##### it's about store app. 
 -----------------------------------------------------
 i have put database .sql file >> install 
 
